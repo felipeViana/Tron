@@ -1,4 +1,4 @@
 Tron
 ====
 
-Tron based game
+Tron based game made in C++ for 4 local players
